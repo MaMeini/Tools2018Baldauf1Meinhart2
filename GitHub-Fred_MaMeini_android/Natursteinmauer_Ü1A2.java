@@ -20,8 +20,9 @@ public class Natursteinmauer_Ü1A2 {
 				Out.println("wow")
 		    int ex = -3;
 		    Out.println("Manfred du “ + ex);
+				String i = "fetter Bugfix";
 		 }
-		
+
 =======
 
 
