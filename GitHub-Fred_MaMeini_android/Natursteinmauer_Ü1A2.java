@@ -17,7 +17,8 @@ public class Natursteinmauer_Ü1A2 {
 <<<<<<< HEAD
 		
 		public void thisIsANewMethod(){ 
-		
+		    int ex = -3;
+		    Out.println("Manfred du “ + ex);
 		 }
 		
 =======
