@@ -15,9 +15,10 @@ public class Natursteinmauer_Ü1A2 {
 		Out.println("Fläche: " + Am + "."+((Acm+50)%10000)/100 +" m2");
 		Out.println("Preis für das Segment: " + Acm * 96/10000 + "."+Acm*96%10000/1000 + Acm*96%1000/100+" EUR");
 <<<<<<< HEAD
-		
-		public void thisIsANewMethod(){ 
-		
+
+		public void thisIsANewMethod(){
+			Out.println("wow")
+
 		 }
 		
 =======
